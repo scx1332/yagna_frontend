@@ -1,2 +1,1 @@
-# yagna_frontend
-POC of frontend for yagna
+# erc20_driver_frontend
